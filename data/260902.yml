@@ -1,0 +1,61 @@
+about:
+  description: An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+  license: Apache-2.0
+  homepage: https://google.github.io/adk-docs/
+  head: 56d628d
+  archived: false
+  latestVersion: v2.3.0
+  collectedAt: 2026-09-02T05:09:28Z
+timeline:
+  created: 2025-05-05
+  lastCommit: 2026-09-01
+  lastRelease: 2026-08-31
+popularity:
+  star: 8736
+  watcher: 107
+  fork: 1004
+  release: 17
+  contributor: 131
+  pullRequest: 411
+  issue: 285
+language:
+  Go: 4937584
+  HTML: 53359
+  JavaScript: 4232
+  Go Template: 1407
+  Shell: 926
+  Dockerfile: 773
+totalLine: 4998281
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 3
+    mergedPR: 71
+    openPR: 67
+    closedIssue: 29
+    openIssue: 25
+    commit: 81
+  last90d:
+    since: 2026-06-04
+    release: 7
+    mergedPR: 217
+    openPR: 98
+    closedIssue: 52
+    openIssue: 46
+    commit: 143
+  last180d:
+    since: 2026-03-06
+    release: 13
+    mergedPR: 383
+    openPR: 124
+    closedIssue: 84
+    openIssue: 69
+    commit: 234
+  last360d:
+    since: 2025-09-07
+    release: 17
+    mergedPR: 656
+    openPR: 135
+    closedIssue: 167
+    openIssue: 111
+    commit: 503
