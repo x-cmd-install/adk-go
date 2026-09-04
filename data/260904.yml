@@ -7,7 +7,7 @@ about:
   head: a611472
   archived: false
   latestVersion: v2.3.0
-  collectedAt: 2026-09-04T20:07:58Z
+  collectedAt: 2026-09-04T20:36:19Z
 timeline:
   created: 2025-05-05
   lastCommit: 2026-09-04
@@ -86,7 +86,7 @@ total:
   commit: 601
 ---
 path: /home/runner/.x-repo/github.com/google/adk-go
-collectedAt: 2026-09-04T20:08:00Z
+collectedAt: 2026-09-04T20:36:21Z
 loc:
   Go:
     code: 123302
