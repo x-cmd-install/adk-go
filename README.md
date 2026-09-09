@@ -5,9 +5,9 @@ An open-source, code-first Go toolkit for building, evaluating, and deploying so
 - **Upstream**: <https://github.com/google/adk-go>
 - **Homepage**: <https://google.github.io/adk-docs/>
 - **Latest release**: `v1.6.1` (2026-09-07)
-- **Last commit**: 2026-09-08
+- **Last commit**: 2026-09-09
 - **License**: Apache-2.0
-- **Stars**: 8760 · **Forks**: 1007 · **Open issues**: 306 · **Contributors**: 104
+- **Stars**: 8762 · **Forks**: 1003 · **Open issues**: 310 · **Contributors**: 106
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/adk-go> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:09:14Z._
+_Last regenerated: 2026-09-09T19:40:59Z._
