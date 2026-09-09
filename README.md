@@ -7,7 +7,7 @@ An open-source, code-first Go toolkit for building, evaluating, and deploying so
 - **Latest release**: `v1.6.1` (2026-09-07)
 - **Last commit**: 2026-09-08
 - **License**: Apache-2.0
-- **Stars**: 8761 · **Forks**: 1011 · **Open issues**: 305 · **Contributors**: 104
+- **Stars**: 8760 · **Forks**: 1007 · **Open issues**: 306 · **Contributors**: 104
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/adk-go> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:28:33Z._
+_Last regenerated: 2026-09-09T05:09:14Z._
