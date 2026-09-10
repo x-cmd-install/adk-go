@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.6.1"
   latestRelease: "v1.6.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T19:40:35Z
+  collectedAt: 2026-09-10T05:08:16Z
 timeline:
   created: 2025-05-05
   lastCommit: 2026-09-09
@@ -32,31 +32,31 @@ language:
 totalBytes: 5711314
 recent:
   last30d:
-    since: 2026-08-10
-    release: 4
-    mergedPR: 83
+    since: 2026-08-11
+    release: 3
+    mergedPR: 76
     openPR: 74
-    closedIssue: 32
+    closedIssue: 30
     openIssue: 36
     commit: 94
   last60d:
-    since: 2026-07-11
+    since: 2026-07-12
     release: 6
-    mergedPR: 148
-    openPR: 93
+    mergedPR: 147
+    openPR: 92
     closedIssue: 54
     openIssue: 49
     commit: 144
   last90d:
-    since: 2026-06-11
+    since: 2026-06-12
     release: 8
-    mergedPR: 233
+    mergedPR: 230
     openPR: 102
-    closedIssue: 65
+    closedIssue: 64
     openIssue: 55
     commit: 175
   last180d:
-    since: 2026-03-13
+    since: 2026-03-14
     release: 13
     mergedPR: 418
     openPR: 124
@@ -64,15 +64,15 @@ recent:
     openIssue: 77
     commit: 255
   last360d:
-    since: 2025-09-14
+    since: 2025-09-15
     release: 18
-    mergedPR: 692
+    mergedPR: 691
     openPR: 132
     closedIssue: 192
     openIssue: 111
     commit: 529
   last720d:
-    since: 2024-09-19
+    since: 2024-09-20
     release: 18
     mergedPR: 775
     openPR: 132
@@ -88,7 +88,7 @@ total:
   commit: 616
 ---
 path: /home/runner/.x-repo/github.com/google/adk-go
-collectedAt: 2026-09-09T19:40:41Z
+collectedAt: 2026-09-10T05:08:22Z
 loc:
   Go:
     code: 130945
