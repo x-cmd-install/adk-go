@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.6.1"
   latestRelease: "v1.6.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T17:10:15Z
+  collectedAt: 2026-09-10T23:58:50Z
 timeline:
   created: 2025-05-05
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-07
   lastPrerelease: 
 popularity:
-  star: 8764
+  star: 8765
   watcher: 103
   fork: 1004
   release: 18
@@ -88,7 +88,7 @@ total:
   commit: 618
 ---
 path: /home/runner/.x-repo/github.com/google/adk-go
-collectedAt: 2026-09-10T17:10:19Z
+collectedAt: 2026-09-10T23:59:04Z
 loc:
   Go:
     code: 131087
