@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.6.1"
   latestRelease: "v1.6.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T23:58:50Z
+  collectedAt: 2026-09-11T05:01:17Z
 timeline:
   created: 2025-05-05
   lastCommit: 2026-09-10
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-07
   lastPrerelease: 
 popularity:
-  star: 8765
+  star: 8766
   watcher: 103
   fork: 1004
   release: 18
   contributor: 107
-  pullRequest: 1207
+  pullRequest: 1209
   issue: 313
 language:
   Go: 5621012
@@ -32,63 +32,63 @@ language:
 totalBytes: 5716284
 recent:
   last30d:
-    since: 2026-08-11
+    since: 2026-08-12
     release: 3
-    mergedPR: 78
+    mergedPR: 74
     openPR: 76
-    closedIssue: 32
-    openIssue: 37
+    closedIssue: 29
+    openIssue: 36
     commit: 96
   last60d:
-    since: 2026-07-12
+    since: 2026-07-13
     release: 6
-    mergedPR: 149
-    openPR: 94
-    closedIssue: 56
-    openIssue: 50
+    mergedPR: 148
+    openPR: 96
+    closedIssue: 55
+    openIssue: 49
     commit: 146
   last90d:
-    since: 2026-06-12
+    since: 2026-06-13
     release: 8
     mergedPR: 232
-    openPR: 104
+    openPR: 106
     closedIssue: 66
     openIssue: 56
     commit: 177
   last180d:
-    since: 2026-03-14
+    since: 2026-03-15
     release: 13
     mergedPR: 420
-    openPR: 126
+    openPR: 128
     closedIssue: 101
     openIssue: 78
     commit: 257
   last360d:
-    since: 2025-09-15
+    since: 2025-09-16
     release: 18
-    mergedPR: 693
-    openPR: 134
+    mergedPR: 691
+    openPR: 136
     closedIssue: 194
     openIssue: 112
     commit: 531
   last720d:
-    since: 2024-09-20
+    since: 2024-09-21
     release: 18
     mergedPR: 777
-    openPR: 134
+    openPR: 136
     closedIssue: 200
     openIssue: 113
     commit: 618
 total:
   release: 18
   mergedPR: 777
-  openPR: 134
+  openPR: 136
   closedIssue: 200
   openIssue: 113
   commit: 618
 ---
 path: /home/runner/.x-repo/github.com/google/adk-go
-collectedAt: 2026-09-10T23:59:04Z
+collectedAt: 2026-09-11T05:01:20Z
 loc:
   Go:
     code: 131087
