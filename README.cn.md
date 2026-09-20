@@ -4,7 +4,7 @@
 
 An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 
-![adk-go](https://repo.x-cmd.io/adk-go.svg?lang=zh)
+[![x-cmd/install — adk-go Code Quality Monitoring Repo Card](https://repo.x-cmd.io/adk-go.svg?lang=zh)](https://x-cmd.com/install/adk-go)
 
 ## 安装
 
@@ -37,22 +37,22 @@ x install adk-go
 
 ## 流行度
 
-- **Star**: 8,797 · **Fork**: 1,011 · **开放 issue**: 324 · **贡献者**: 112
+- **Star**: 8,803 · **Fork**: 1,013 · **开放 issue**: 324 · **贡献者**: 112
 
 ## 累计统计
 
-- **发布数**: 20 · **已合并 PR**: 809 · **开放 PR**: 132 · **已关闭 issue**: 211 · **开放 issue**: 113 · **提交数**: 640
+- **发布数**: 20 · **已合并 PR**: 809 · **开放 PR**: 134 · **已关闭 issue**: 211 · **开放 issue**: 113 · **提交数**: 640
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 4 | 83 | 79 | 27 | 32 | 107 |
-| last60d | 2026-07-20 | 8 | 169 | 91 | 63 | 44 | 163 |
-| 90d | 2026-06-20 | 10 | 228 | 105 | 72 | 55 | 191 |
-| last180d | 2026-03-22 | 15 | 436 | 123 | 110 | 76 | 266 |
-| 360d | 2025-09-23 | 20 | 711 | 132 | 205 | 112 | 542 |
-| last720d | 2024-09-28 | 20 | 809 | 132 | 211 | 113 | 640 |
+| 30d | 2026-08-21 | 4 | 79 | 71 | 27 | 31 | 107 |
+| last60d | 2026-07-22 | 8 | 165 | 92 | 63 | 44 | 163 |
+| 90d | 2026-06-22 | 10 | 222 | 107 | 72 | 54 | 191 |
+| last180d | 2026-03-24 | 14 | 434 | 125 | 109 | 76 | 266 |
+| 360d | 2025-09-25 | 20 | 705 | 134 | 205 | 112 | 542 |
+| last720d | 2024-09-30 | 20 | 809 | 134 | 211 | 113 | 640 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ adk-go 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:12:37Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:17:58Z._

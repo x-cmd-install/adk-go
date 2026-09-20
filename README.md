@@ -4,7 +4,7 @@
 
 An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 
-![adk-go](https://repo.x-cmd.io/adk-go.svg)
+[![x-cmd/install — adk-go Code Quality Monitoring Repo Card](https://repo.x-cmd.io/adk-go.svg)](https://x-cmd.com/install/adk-go)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **148,055** lines of code across **759** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 8,797 · **Forks**: 1,011 · **Open issues**: 324 · **Contributors**: 112
+- **Stars**: 8,803 · **Forks**: 1,013 · **Open issues**: 324 · **Contributors**: 112
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 809 · **Open PRs**: 132 · **Closed issues**: 211 · **Open issues**: 113 · **Commits**: 640
+- **Releases**: 20 · **Merged PRs**: 809 · **Open PRs**: 134 · **Closed issues**: 211 · **Open issues**: 113 · **Commits**: 640
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 4 | 83 | 79 | 27 | 32 | 107 |
-| last60d | 2026-07-20 | 8 | 169 | 91 | 63 | 44 | 163 |
-| 90d | 2026-06-20 | 10 | 228 | 105 | 72 | 55 | 191 |
-| last180d | 2026-03-22 | 15 | 436 | 123 | 110 | 76 | 266 |
-| 360d | 2025-09-23 | 20 | 711 | 132 | 205 | 112 | 542 |
-| last720d | 2024-09-28 | 20 | 809 | 132 | 211 | 113 | 640 |
+| 30d | 2026-08-21 | 4 | 79 | 71 | 27 | 31 | 107 |
+| last60d | 2026-07-22 | 8 | 165 | 92 | 63 | 44 | 163 |
+| 90d | 2026-06-22 | 10 | 222 | 107 | 72 | 54 | 191 |
+| last180d | 2026-03-24 | 14 | 434 | 125 | 109 | 76 | 266 |
+| 360d | 2025-09-25 | 20 | 705 | 134 | 205 | 112 | 542 |
+| last720d | 2024-09-30 | 20 | 809 | 134 | 211 | 113 | 640 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for adk-go lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:12:37Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:17:57Z._
