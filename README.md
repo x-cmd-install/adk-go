@@ -37,22 +37,22 @@ Total: **156,558** lines of code across **779** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 8,828 · **Forks**: 1,023 · **Open issues**: 334 · **Contributors**: 117
+- **Stars**: 8,830 · **Forks**: 1,024 · **Open issues**: 337 · **Contributors**: 117
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 832 · **Open PRs**: 124 · **Closed issues**: 222 · **Open issues**: 112 · **Commits**: 663
+- **Releases**: 20 · **Merged PRs**: 832 · **Open PRs**: 127 · **Closed issues**: 222 · **Open issues**: 115 · **Commits**: 663
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 4 | 87 | 63 | 26 | 30 | 118 |
-| last60d | 2026-07-29 | 6 | 174 | 81 | 63 | 44 | 176 |
-| 90d | 2026-06-29 | 10 | 226 | 96 | 82 | 52 | 213 |
-| last180d | 2026-03-31 | 14 | 452 | 115 | 117 | 74 | 285 |
-| 360d | 2025-10-02 | 20 | 718 | 124 | 216 | 111 | 551 |
-| last720d | 2024-10-07 | 20 | 832 | 124 | 222 | 112 | 663 |
+| 30d | 2026-08-29 | 4 | 87 | 66 | 26 | 33 | 65 |
+| last60d | 2026-07-30 | 6 | 174 | 84 | 63 | 47 | 167 |
+| 90d | 2026-06-30 | 10 | 220 | 99 | 82 | 55 | 206 |
+| last180d | 2026-04-01 | 14 | 450 | 118 | 116 | 76 | 281 |
+| 360d | 2025-10-03 | 20 | 716 | 127 | 216 | 114 | 538 |
+| last720d | 2024-10-08 | 20 | 832 | 127 | 222 | 115 | 663 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for adk-go lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:41:56Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T05:52:00Z._
