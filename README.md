@@ -14,11 +14,11 @@ x install adk-go
 
 ## Code insight
 
-Total: **178,136** lines of code across **912** files in the top 5 languages.
+Total: **179,514** lines of code across **914** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 155,752 | 37,196 | 18,614 | 710 |
+| Go | 157,130 | 37,368 | 18,693 | 712 |
 | Json | 11,039 | 0 | 0 | 85 |
 | JavaScript | 8,964 | 305 | 311 | 106 |
 | Yaml | 935 | 0 | 1 | 9 |
@@ -32,27 +32,27 @@ Total: **178,136** lines of code across **912** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.5.0` (2026-09-30)
+- **Latest**: `v1.8.0` (2026-10-05)
 - **Last commit**: 2026-10-05
 
 ## Popularity
 
-- **Stars**: 8,847 · **Forks**: 1,026 · **Open issues**: 358 · **Contributors**: 123
+- **Stars**: 8,847 · **Forks**: 1,023 · **Open issues**: 363 · **Contributors**: 124
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 888 · **Open PRs**: 90 · **Closed issues**: 244 · **Open issues**: 114 · **Commits**: 704
+- **Releases**: 22 · **Merged PRs**: 891 · **Open PRs**: 99 · **Closed issues**: 248 · **Open issues**: 115 · **Commits**: 707
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 4 | 88 | 44 | 29 | 29 | 86 |
-| last60d | 2026-08-06 | 7 | 206 | 65 | 75 | 48 | 185 |
-| 90d | 2026-07-07 | 9 | 264 | 75 | 98 | 55 | 234 |
-| last180d | 2026-04-08 | 15 | 499 | 86 | 135 | 74 | 312 |
-| 360d | 2025-10-10 | 21 | 756 | 90 | 237 | 113 | 567 |
-| last720d | 2024-10-15 | 21 | 888 | 90 | 244 | 114 | 704 |
+| 30d | 2026-09-06 | 5 | 91 | 53 | 31 | 32 | 89 |
+| last60d | 2026-08-07 | 8 | 205 | 74 | 77 | 50 | 188 |
+| 90d | 2026-07-08 | 10 | 264 | 84 | 101 | 57 | 237 |
+| last180d | 2026-04-09 | 16 | 499 | 95 | 138 | 76 | 315 |
+| 360d | 2025-10-11 | 22 | 758 | 99 | 241 | 114 | 570 |
+| last720d | 2024-10-16 | 22 | 891 | 99 | 248 | 115 | 707 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for adk-go lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T05:57:35Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T06:44:09Z._
