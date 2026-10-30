@@ -1,0 +1,150 @@
+about:
+  description: "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control."
+  license: Apache-2.0
+  homepage: https://google.github.io/adk-docs/
+  head: 391b925
+  archived: false
+  latestVersion: "v1.9.0"
+  latestRelease: "v1.9.0"
+  latestPrerelease: ""
+  collectedAt: 2026-10-30T06:13:32Z
+timeline:
+  created: 2025-05-05
+  lastCommit: 2026-10-30
+  lastVersion: 2026-10-15
+  lastRelease: 2026-10-15
+  lastPrerelease: 
+popularity:
+  star: 8909
+  watcher: 89
+  fork: 986
+  release: 24
+  contributor: 143
+  pullRequest: 1521
+  issue: 457
+language:
+  Go: 10713594
+  HTML: 53359
+  Shell: 32799
+  JavaScript: 4232
+  Dockerfile: 2739
+  Go Template: 1407
+totalBytes: 10808130
+recent:
+  last30d:
+    since: 2026-09-30
+    release: 4
+    mergedPR: 126
+    openPR: 89
+    closedIssue: 53
+    openIssue: 58
+    commit: 125
+  last60d:
+    since: 2026-08-31
+    release: 8
+    mergedPR: 249
+    openPR: 106
+    closedIssue: 103
+    openIssue: 76
+    commit: 235
+  last90d:
+    since: 2026-08-01
+    release: 10
+    mergedPR: 347
+    openPR: 117
+    closedIssue: 143
+    openIssue: 86
+    commit: 326
+  last180d:
+    since: 2026-05-03
+    release: 16
+    mergedPR: 595
+    openPR: 130
+    closedIssue: 188
+    openIssue: 106
+    commit: 413
+  last360d:
+    since: 2025-11-04
+    release: 24
+    mergedPR: 843
+    openPR: 133
+    closedIssue: 308
+    openIssue: 140
+    commit: 626
+  last720d:
+    since: 2024-11-09
+    release: 24
+    mergedPR: 1018
+    openPR: 133
+    closedIssue: 316
+    openIssue: 141
+    commit: 817
+total:
+  release: 24
+  mergedPR: 1018
+  openPR: 133
+  closedIssue: 316
+  openIssue: 141
+  commit: 817
+---
+path: /home/runner/.x-repo/github.com/google/adk-go
+collectedAt: 2026-10-30T06:13:35Z
+loc:
+  Go:
+    code: 238807
+    comments: 48908
+    blanks: 24258
+    files: 804
+  Json:
+    code: 10967
+    comments: 0
+    blanks: 0
+    files: 85
+  JavaScript:
+    code: 8964
+    comments: 305
+    blanks: 311
+    files: 106
+  Yaml:
+    code: 935
+    comments: 0
+    blanks: 1
+    files: 9
+  Css:
+    code: 782
+    comments: 32
+    blanks: 138
+    files: 2
+  Sh:
+    code: 515
+    comments: 180
+    blanks: 71
+    files: 2
+  Html:
+    code: 106
+    comments: 16
+    blanks: 6
+    files: 2
+  Svg:
+    code: 26
+    comments: 0
+    blanks: 0
+    files: 2
+  Dockerfile:
+    code: 17
+    comments: 32
+    blanks: 9
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2193
+    blanks: 753
+    files: 37
+total:
+  code: 261357
+  comments: 51690
+  blanks: 25560
+  files: 1050
+---
+
+---
