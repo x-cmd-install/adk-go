@@ -2,12 +2,12 @@ about:
   description: "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control."
   license: Apache-2.0
   homepage: https://google.github.io/adk-docs/
-  head: 391b925
+  head: beea418
   archived: false
   latestVersion: "v1.9.0"
   latestRelease: "v1.9.0"
   latestPrerelease: ""
-  collectedAt: 2026-10-30T06:13:32Z
+  collectedAt: 2026-10-31T05:58:21Z
 timeline:
   created: 2025-05-05
   lastCommit: 2026-10-30
@@ -15,86 +15,86 @@ timeline:
   lastRelease: 2026-10-15
   lastPrerelease: 
 popularity:
-  star: 8909
+  star: 8911
   watcher: 89
-  fork: 986
+  fork: 987
   release: 24
-  contributor: 143
-  pullRequest: 1521
-  issue: 457
+  contributor: 144
+  pullRequest: 1531
+  issue: 464
 language:
-  Go: 10713594
+  Go: 11124931
   HTML: 53359
   Shell: 32799
   JavaScript: 4232
   Dockerfile: 2739
   Go Template: 1407
-totalBytes: 10808130
+totalBytes: 11219467
 recent:
   last30d:
-    since: 2026-09-30
-    release: 4
-    mergedPR: 126
-    openPR: 89
-    closedIssue: 53
-    openIssue: 58
-    commit: 125
+    since: 2026-10-01
+    release: 3
+    mergedPR: 110
+    openPR: 90
+    closedIssue: 52
+    openIssue: 60
+    commit: 130
   last60d:
-    since: 2026-08-31
-    release: 8
-    mergedPR: 249
-    openPR: 106
-    closedIssue: 103
-    openIssue: 76
-    commit: 235
+    since: 2026-09-01
+    release: 7
+    mergedPR: 243
+    openPR: 109
+    closedIssue: 104
+    openIssue: 78
+    commit: 240
   last90d:
-    since: 2026-08-01
+    since: 2026-08-02
     release: 10
-    mergedPR: 347
-    openPR: 117
-    closedIssue: 143
-    openIssue: 86
-    commit: 326
+    mergedPR: 350
+    openPR: 121
+    closedIssue: 146
+    openIssue: 89
+    commit: 331
   last180d:
-    since: 2026-05-03
+    since: 2026-05-04
     release: 16
-    mergedPR: 595
-    openPR: 130
-    closedIssue: 188
-    openIssue: 106
-    commit: 413
+    mergedPR: 598
+    openPR: 134
+    closedIssue: 192
+    openIssue: 109
+    commit: 418
   last360d:
-    since: 2025-11-04
+    since: 2025-11-05
     release: 24
-    mergedPR: 843
-    openPR: 133
-    closedIssue: 308
-    openIssue: 140
-    commit: 626
+    mergedPR: 839
+    openPR: 137
+    closedIssue: 312
+    openIssue: 143
+    commit: 631
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 24
-    mergedPR: 1018
-    openPR: 133
-    closedIssue: 316
-    openIssue: 141
-    commit: 817
+    mergedPR: 1023
+    openPR: 137
+    closedIssue: 320
+    openIssue: 144
+    commit: 822
 total:
   release: 24
-  mergedPR: 1018
-  openPR: 133
-  closedIssue: 316
-  openIssue: 141
-  commit: 817
+  mergedPR: 1023
+  openPR: 137
+  closedIssue: 320
+  openIssue: 144
+  commit: 822
 ---
 path: /home/runner/.x-repo/github.com/google/adk-go
-collectedAt: 2026-10-30T06:13:35Z
+collectedAt: 2026-10-31T05:58:26Z
 loc:
   Go:
-    code: 238807
-    comments: 48908
-    blanks: 24258
-    files: 804
+    code: 248080
+    comments: 50348
+    blanks: 24932
+    files: 831
   Json:
     code: 10967
     comments: 0
@@ -141,10 +141,10 @@ loc:
     blanks: 753
     files: 37
 total:
-  code: 261357
-  comments: 51690
-  blanks: 25560
-  files: 1050
+  code: 270630
+  comments: 53130
+  blanks: 26234
+  files: 1077
 ---
 
 ---
