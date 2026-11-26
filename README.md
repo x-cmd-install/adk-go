@@ -14,11 +14,11 @@ x install adk-go
 
 ## Code insight
 
-Total: **387,042** lines of code across **1189** files in the top 5 languages.
+Total: **391,922** lines of code across **1200** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 363,096 | 65,509 | 31,876 | 986 |
+| Go | 367,976 | 66,188 | 32,220 | 997 |
 | Json | 12,604 | 0 | 0 | 86 |
 | JavaScript | 8,964 | 305 | 311 | 106 |
 | Yaml | 932 | 0 | 1 | 9 |
@@ -37,22 +37,22 @@ Total: **387,042** lines of code across **1189** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 9,008 · **Forks**: 1,007 · **Open issues**: 597 · **Contributors**: 175
+- **Stars**: 9,015 · **Forks**: 1,010 · **Open issues**: 608 · **Contributors**: 177
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 1262 · **Open PRs**: 143 · **Closed issues**: 436 · **Open issues**: 161 · **Commits**: 1040
+- **Releases**: 29 · **Merged PRs**: 1268 · **Open PRs**: 148 · **Closed issues**: 439 · **Open issues**: 169 · **Commits**: 1046
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 5 | 210 | 101 | 83 | 67 | 224 |
-| last60d | 2026-09-26 | 9 | 378 | 117 | 175 | 90 | 364 |
-| 90d | 2026-08-27 | 13 | 505 | 129 | 224 | 103 | 480 |
-| last180d | 2026-05-29 | 20 | 762 | 141 | 290 | 124 | 602 |
-| 360d | 2025-11-30 | 28 | 1025 | 143 | 388 | 147 | 795 |
-| last720d | 2024-12-05 | 29 | 1262 | 143 | 436 | 161 | 1040 |
+| 30d | 2026-10-27 | 5 | 211 | 106 | 84 | 75 | 230 |
+| last60d | 2026-09-27 | 9 | 384 | 123 | 177 | 99 | 370 |
+| 90d | 2026-08-28 | 13 | 508 | 134 | 221 | 111 | 486 |
+| last180d | 2026-05-30 | 19 | 767 | 146 | 293 | 132 | 608 |
+| 360d | 2025-12-01 | 28 | 1030 | 148 | 389 | 155 | 801 |
+| last720d | 2024-12-06 | 29 | 1268 | 148 | 439 | 169 | 1046 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for adk-go lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:05:47Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:22:09Z._
